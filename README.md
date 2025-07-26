@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: beginner-friendly open-source projects or study groups to learn coding together.
 - 🤔 I’m looking for help with: organizing projects on GitHub and improving problem-solving skills with algorithms.
 - 💬 Ask me about: my experience as a first-year Software Engineering student at HUST, or tips for learning C/C++ as a beginner.
-- 📫 How to reach me: email me at example@gmail.com or visit my GitHub at [https://github.com/yourusername](https://github.com/yourusername)
+- 📫 How to reach me: email me at empty@gmail.com or visit my GitHub at [nameeee](https://github.com/phucnguuyennha)
 - 😄 Pronouns: he/him (or just call me [Phucck])
 - ⚡ Fun fact: I can code for hours with just a cup of bubble tea 😄
 
